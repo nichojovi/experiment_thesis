@@ -1,0 +1,73 @@
+Python Cheat Sheet - Functions, Loops, and Range
+
+1. Function and Parameter
+
+# Define a function with a parameter
+def greet(name):
+    print(f"Hello {name}")
+
+# Call the function with an argument
+greet("Alice")
+
+
+2. Casting with str()
+
+# Convert integer to string
+x = 10
+s = str(x)  # s is now "10" (a string)
+
+
+3. Printing Values
+
+# Print a number
+print(1)
+
+# Print a string
+print("test")
+
+# Print using formatted string (f-string)
+i = 2
+j = 5
+print(f"{i}{j}")  # Output: "25"
+
+
+4. Single Loop
+
+# Loop from 0 to 2
+for i in range(3):
+    print(i)
+
+The code above will print: 
+0
+1 
+2 
+3
+
+
+5. Double (Nested) Loop
+
+# Loop through pairs of i and j
+for i in range(2):
+    for j in range(3):
+        print(f"{i}{j}", end=' ')
+
+The code above will print: 00 01 02 10 11 12
+
+
+6. The range() in Loop Examples
+
+Start from 0 to n, n=5
+range(5)         
+The code above will iterate: 0, 1, 2, 3, 4
+
+Start from 1 to n-1, n=5
+range(1, 5) 
+The code above will iterate: 1, 2, 3, 4
+
+Start from 2 to 10, and increment by 2 
+range(2, 10, 2)  
+The code above will iterate: 2, 4, 6, 8 (The 10 is not included)
+
+Start from 9 to 3, and decrement by 3 
+range(9, 3, -3)  
+The code above will iterate: 9, 6 (The 3 is not included)

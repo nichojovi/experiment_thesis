@@ -1,0 +1,7 @@
+Task:
+Print the second line of the poem: 
+
+"Violets are blue,"
+
+Hint:
+- Use the print() function for each line.

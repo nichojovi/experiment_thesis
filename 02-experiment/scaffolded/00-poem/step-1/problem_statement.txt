@@ -1,0 +1,7 @@
+Task:
+Print the first line of the poem: 
+
+"Roses are red,"
+
+Hint:
+- Use the print() function for each line.

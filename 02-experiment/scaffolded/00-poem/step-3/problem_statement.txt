@@ -1,0 +1,7 @@
+Task:
+Print the third line of the poem: 
+
+"Sugar is sweet,"
+
+Hint:
+- Use the print() function for each line.

@@ -1,0 +1,7 @@
+Task:
+Print the last line of the poem: 
+
+"And so are you."
+
+Hint:
+- Use the print() function for each line.

@@ -1,0 +1,10 @@
+Task:
+Write a function that prints each line of the poem below on its own line:
+
+Roses are red,
+Violets are blue,
+Sugar is sweet,
+And so are you.
+
+Hint:
+- Use the print() function for each line.

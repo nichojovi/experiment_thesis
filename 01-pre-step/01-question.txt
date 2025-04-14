@@ -1,0 +1,24 @@
+1. What is your current/highest educational level? (single answer)
+- Bachelor Degree
+- Master Degree
+- Postgraduate Degree
+
+2. Are you study in computer science field?  (single answer, if "no" then specify)
+- Yes
+- No (specify)
+
+3. What is the longest code have you write so far? (single answer)
+- less than 100 lines
+- 100-1000 lines
+- more than 1000 lines
+
+4. Have you use python programming language before? (single answer)
+- Yes
+- No
+
+5. How proficient are you in coding? (likert scale)
+- Not at all
+- Not much
+- Somewhat
+- Proficient
+- Very Proficient

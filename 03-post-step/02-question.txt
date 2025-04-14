@@ -1,0 +1,69 @@
+Introduction:
+
+Please reflect on your experience solving the problem and answer the following questions honestly. Your feedback will help us improve programming learning tools.
+
+Section 1: Your Experience During the Assignment
+
+1. How confident did you feel while working on the assignment? (likert scale: 1-5)
+- Not confident at all
+- Not confident
+- Somewhat confident
+- Confident
+- Very confident
+
+2. Did the structure of the assignment help you focus on the problem logic and concepts? (likert scale: 1-5)
+- Not helpful at all
+- Not helpful
+- Somewhat helpful
+- Helpful
+- Very helpful
+
+3. Did you find the task manageable given how it was presented? (likert scale: 1-5)
+- Not manageable at all
+- Not manageable
+- Somewhat manageable
+- Manageable
+- Very manageable
+
+4. How helpful was the feedback you received during or after the task? (likert scale: 1-5)
+- Not helpful at all
+- Not helpful
+- Somewhat helpful
+- Helpful
+- Very helpful
+
+5. Did you feel overwhelmed during the task? (likert scale: 1-5)
+- Not overwhelmed at all
+- Not overwhelmed
+- Somewhat overwhelmed
+- Overwhelmed
+- Very overwhelmed
+
+Section 2: Your Opinion on Both Approaches
+
+Explanation:
+There are two types of programming assignment approach used in this experiment:
+
+- Scaffolded Approach: The problem is decomposed into several sub-problems. You need to solve each step before moving on. Each step is provided with intermediate feedback. This approach focuses on guiding you through the problem in a step-by-step manner.
+
+- Traditional/Whole-Problem Approach: The entire problem is presented at once. You need to write a complete solution without intermediate feedback. You receive feedback only after submitting your full solution.
+
+Imagine that you need to solve a complex programming assignment in the future. Please consider both approaches when answering the following questions. 
+
+6. Which approach do you think helps you learn programming more effectively? (single choice)
+- Scaffolded
+- Whole-Problem
+- No preference
+
+7. Which approach do you think better supports your problem-solving or guide way of thinking process? (single choice)
+- Scaffolded
+- Whole-Problem
+- No preference
+
+8. Which approach do you prefer for future assignments? (single choice)
+- Scaffolded
+- Whole-Problem
+- Depends on the task
+- No preference
+
+9. Do you have any concerns or expectations for Scaffolded/Whole-Problem approach? (open ended)

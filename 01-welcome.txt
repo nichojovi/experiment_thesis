@@ -1,0 +1,9 @@
+Welcome and Thank You!
+
+You're about to take part in a short experiment exploring a new kind of computer science exercise. Your responses will help us assess the effectiveness of this learning approach.
+
+Your participation directly supports a master's thesis and ongoing research. It may also help shape future tools and materials for CS students. All responses are anonymous, and your data will be securely deleted once the analysis is done. While findings may be published, no personally identifying information will ever be shared.
+
+If you have any questions or concerns, feel free to reach out:
+- Nicholas Jovianto (nicholas.jovianto@aalto.fi)
+- Arto Hellas (arto.hellas@aalto.fi)

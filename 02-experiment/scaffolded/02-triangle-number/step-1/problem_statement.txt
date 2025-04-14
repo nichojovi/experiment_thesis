@@ -1,0 +1,11 @@
+Welcome to triangle number problem!
+
+Task:
+Create a function called print_number_triangle(n) that accepts an integer n as input and prints the value of n as a string.
+
+Example:
+If n = 3, the output should be:
+"3"
+
+Hint:
+1. You can use the built-in str() function to convert a number to a string.
