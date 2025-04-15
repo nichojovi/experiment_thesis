@@ -30,38 +30,41 @@ class TestNumberTriangle(unittest.TestCase):
                 f"Got:      '{actual}'\n"
                 "Hint:\n"
                 "1. Make sure each number is followed by a space, even the last one.\n"
+                "2. Check you triangle shape again, make sure each line iterate number from 1 to i.\n"
             )
 
     def test_triangle_n1(self):
-        self.run_test(1, ["1 "])
+        self.run_test(1, [
+            "1 "
+        ])
 
     def test_triangle_n2(self):
         self.run_test(2, [
-            "1 2 ",
+            "1 ",
             "1 2 "
         ])
 
     def test_triangle_n3(self):
         self.run_test(3, [
-            "1 2 3 ",
-            "1 2 3 ",
+            "1 ",
+            "1 2 ",
             "1 2 3 "
         ])
 
     def test_triangle_n4(self):
         self.run_test(4, [
-            "1 2 3 4 ",
-            "1 2 3 4 ",
-            "1 2 3 4 ",
+            "1 ",
+            "1 2 ",
+            "1 2 3 ",
             "1 2 3 4 "
         ])
 
     def test_triangle_n5(self):
         self.run_test(5, [
-            "1 2 3 4 5 ",
-            "1 2 3 4 5 ",
-            "1 2 3 4 5 ",
-            "1 2 3 4 5 ",
+            "1 ",
+            "1 2 ",
+            "1 2 3 ",
+            "1 2 3 4 ",
             "1 2 3 4 5 "
         ])
 

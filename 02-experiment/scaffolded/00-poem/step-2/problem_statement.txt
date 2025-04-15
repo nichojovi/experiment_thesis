@@ -1,3 +1,5 @@
+Good! You've printed the first line.
+
 Task:
 Print the second line of the poem: 
 

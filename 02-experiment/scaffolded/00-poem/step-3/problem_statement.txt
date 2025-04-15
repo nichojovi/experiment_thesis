@@ -1,5 +1,7 @@
+Great! You able to print the first two line of the poem.
+
 Task:
-Print the third line of the poem: 
+Now, print the third line of the poem: 
 
 "Sugar is sweet,"
 

@@ -1,5 +1,7 @@
+Very well! The poem almost finish.
+
 Task:
-Print the last line of the poem: 
+Now, print the last line of the poem: 
 
 "And so are you."
 
