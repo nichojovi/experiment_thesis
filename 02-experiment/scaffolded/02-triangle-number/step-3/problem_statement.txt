@@ -1,7 +1,7 @@
 Great job completing the first step!
 
 Task:
-Now, update the print_number_triangle(n) function so that it accepts an integer n as input and prints the sequence of numbers from 1 to n, each converted to a string and separated by a space.
+Modify the print_number_triangle(n) function so that it accepts an integer n as input and prints the sequence of numbers from 1 to n, each converted to a string and separated by a space.
 
 Example:
 If n = 3, the output should be:

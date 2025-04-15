@@ -1,5 +1,5 @@
 Task:
-Write a function that prints each line of the poem below on its own line:
+Write a function called print_poem() that prints each line of the poem below on its own line:
 
 Roses are red,
 Violets are blue,

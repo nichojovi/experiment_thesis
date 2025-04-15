@@ -1,8 +1,13 @@
 Good! You've printed the first line.
 
 Task:
-Print the second line of the poem: 
+Modify the print_poem() function by adding and printing the second line of the poem: 
 
+"Violets are blue,"
+
+The output should look like:
+
+"Roses are red,"
 "Violets are blue,"
 
 Hint:

@@ -1,8 +1,15 @@
 Very well! The poem almost finish.
 
 Task:
-Now, print the last line of the poem: 
+Modify the print_poem() function by adding and printing the last line of the poem: 
 
+"And so are you."
+
+The output should look like:
+
+"Roses are red,"
+"Violets are blue,"
+"Sugar is sweet,"
 "And so are you."
 
 Hint:

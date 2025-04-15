@@ -1,7 +1,11 @@
 Welcome to print the poem problem!
 
 Task:
-Print the first line of the poem: 
+Write the a function called print_poem() and print the first line of the poem: 
+
+"Roses are red,"
+
+The output should look like:
 
 "Roses are red,"
 
