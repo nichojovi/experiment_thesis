@@ -1,13 +1,8 @@
 Good job! You manage to write the formula correctly!
 
 Task:
-Modify the print_number_stair(start, step, n) function so it can print the value of a single staircase n times using this formula:
+Modify the print_number_staircase(start, step, n) function so it can print the value of a single staircase n times using this formula:
 staircase = start + step * n
-
-Where:
-- start is the first number (1 <= start <= 10),
-- step is the fixed difference between numbers (1 <= step <= 10),
-- n is the number of steps (1 <= n <= 10).
 
 Example:
 If start = 2, step = 3, and n = 5, the output should be:

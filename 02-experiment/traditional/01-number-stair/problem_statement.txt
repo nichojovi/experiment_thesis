@@ -1,11 +1,6 @@
 Task:
-Write a function called print_number_stair(start, step, n) that print a sequence number of the vertical staircase using the formula:
+Write a function called print_number_staircase(start, step, n) that print a sequence number of the vertical staircase using the formula:
 staircase = start + step * i
-
-Where:
-- start is the first number (1 <= start <= 10),
-- step is the fixed difference between numbers (1 <= step <= 10),
-- i is the step starting from 0 to n-1 (1 <= n <= 10).
 
 Example:
 If start = 2, step = 3, and n = 5, the output should be:

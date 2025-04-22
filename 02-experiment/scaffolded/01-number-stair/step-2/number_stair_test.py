@@ -1,6 +1,6 @@
 import unittest
 import builtins
-from number_stair import print_number_stair
+from number_stair import print_number_staircase
 
 class TestNumberStair(unittest.TestCase):
     def run_test(self, start, step, n, expected_lines):
@@ -13,7 +13,7 @@ class TestNumberStair(unittest.TestCase):
         builtins.print = mock_print
 
         try:
-            print_number_stair(start, step, n)
+            print_number_staircase(start, step, n)
         finally:
             builtins.print = original_print
 

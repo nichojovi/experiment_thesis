@@ -1,8 +1,5 @@
 Task: 
-Write a function print_number_triangle(n) that prints a triangle of numbers from 1 to n, where:
-- Each line i contains numbers from 1 to i.
-- Each number (including the last one) is followed by a space.
-- The function prints exactly n lines, 1 <= n <= 5.
+Write a function print_number_triangle(n) that prints a triangle of numbers from 1 to n.
 
 Example:
 If n = 3, the output should be:
@@ -14,3 +11,4 @@ Hint:
 1. You can use the built-in str() function to convert numbers to strings.
 2. Each number should be followed by a space, including the last number.
 3. You need more than one for loop here (nested loop).
+4. Consider using temporary variable to store your result (e.g. row = '').
