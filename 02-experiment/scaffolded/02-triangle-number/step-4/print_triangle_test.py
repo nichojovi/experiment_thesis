@@ -5,7 +5,7 @@ from print_triangle import print_number_triangle
 class TestNumberTriangle(unittest.TestCase):
     def run_test(self, n, expected_lines):
         output_lines = []
-
+        
         def mock_print(text):
             output_lines.append(text)
 
@@ -20,6 +20,8 @@ class TestNumberTriangle(unittest.TestCase):
         self.assertEqual(
             len(output_lines), len(expected_lines),
             f"For n = {n}, expected {len(expected_lines)} lines, but got {len(output_lines)}.\n"
+            "Hint:\n"
+            "1. You should print the result in one line.\n"
         )
 
         for i, (actual, expected) in enumerate(zip(output_lines, expected_lines), start=1):
@@ -36,34 +38,16 @@ class TestNumberTriangle(unittest.TestCase):
         self.run_test(1, ["1 "])
 
     def test_triangle_n2(self):
-        self.run_test(2, [
-            "1 2 ",
-            "1 2 "
-        ])
+        self.run_test(2, ["1 2 "])
 
     def test_triangle_n3(self):
-        self.run_test(3, [
-            "1 2 3 ",
-            "1 2 3 ",
-            "1 2 3 "
-        ])
+        self.run_test(3, ["1 2 3 "])
 
     def test_triangle_n4(self):
-        self.run_test(4, [
-            "1 2 3 4 ",
-            "1 2 3 4 ",
-            "1 2 3 4 ",
-            "1 2 3 4 "
-        ])
+        self.run_test(4, ["1 2 3 4 "])
 
     def test_triangle_n5(self):
-        self.run_test(5, [
-            "1 2 3 4 5 ",
-            "1 2 3 4 5 ",
-            "1 2 3 4 5 ",
-            "1 2 3 4 5 ",
-            "1 2 3 4 5 "
-        ])
+        self.run_test(5, ["1 2 3 4 5 "])
 
 if __name__ == '__main__':
     unittest.main()

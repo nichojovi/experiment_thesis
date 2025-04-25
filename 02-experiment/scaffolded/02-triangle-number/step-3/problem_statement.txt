@@ -1,14 +1,14 @@
-Great job completing the first step!
+Cool! You able to cast an integer value to string.
 
 Task:
-Modify the print_number_triangle(n) function so that it accepts an integer n as input and prints the sequence of numbers from 1 to n, each converted to a string and separated by a space.
+Modify the print_number_triangle(n) so it can accept an integer n as input and prints the value of 1 to n as a string.
 
 Example:
 If n = 3, the output should be:
-"1 2 3 "
+"1"
+"2"
+"3"
 
-Hints:
-1. You can use the built-in str() function to convert numbers to strings.
-2. Each number should be followed by a space, including the last number.
-3. You can use for loop to solve this exercise.
-4. Consider using temporary variable to store your result (e.g. row = '').
+Hint:
+1. You can use the built-in str() function to convert a number to a string.
+2. You can use for loop to solve this exercise.
