@@ -1,4 +1,4 @@
-Welcome to number of staircase problem!
+Welcome to the staircase problem!
 
 Task:
 Write a function called print_number_staircase(start, step, n) that print the value of a single staircase using the formula:

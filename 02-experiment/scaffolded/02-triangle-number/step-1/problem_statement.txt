@@ -1,4 +1,4 @@
-Welcome to triangle number problem!
+Welcome to the triangle number problem!
 
 Task:
 Create a function called print_number_triangle(n) that accepts an integer n as input and prints the value of n as a string.

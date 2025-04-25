@@ -1,4 +1,4 @@
-Great! You able to print the first two line of the poem.
+Great! You are able to print the first two lines of the poem.
 
 Task:
 Modify the print_poem() function by adding and printing the third line of the poem: 

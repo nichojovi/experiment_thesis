@@ -1,4 +1,4 @@
-Great! Now, lets modify the formula a bit.
+Great! Now, let's modify the formula a bit.
 
 Task:
 Modify the print_number_staircase(start, step, n) function so it can print a sequence number of the vertical staircase using the formula:

@@ -13,4 +13,4 @@ Hint:
 1. You can use the built-in str() function to convert numbers to strings.
 2. Each number should be followed by a space, including the last number.
 3. You need more than one for loop here (nested loop).
-4. Consider using temporary variable to store your result (e.g. row = '').
+4. Consider using a temporary variable to store your result (e.g. row = '').

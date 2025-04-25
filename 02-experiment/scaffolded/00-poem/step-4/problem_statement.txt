@@ -1,4 +1,4 @@
-Very well! The poem almost finish.
+Very well! The poem is almost finished.
 
 Task:
 Modify the print_poem() function by adding and printing the last line of the poem: 

@@ -1,4 +1,4 @@
-Cool! You able to cast an integer value to string.
+Cool! You are able to print the value of n as string as much as n times.
 
 Task:
 Modify the print_number_triangle(n) so it can accept an integer n as input and prints the value of 1 to n as a string.
@@ -11,4 +11,4 @@ If n = 3, the output should be:
 
 Hint:
 1. You can use the built-in str() function to convert a number to a string.
-2. You can use for loop to solve this exercise.
+2. You can use a for loop to solve this exercise.
